@@ -22,6 +22,10 @@ h1 {
   color: black;
 }
 
+a:visited {
+  color: #787f8c;
+}
+
 .social-bar a {
   text-decoration: none;
 }
