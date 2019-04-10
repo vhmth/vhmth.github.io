@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "interhouse",
+  "alias": "vinay.sh",
+  "builds": [
+    { "src": "*.html", "use": "@now/static" },
+    { "src": "*.css", "use": "@now/static" },
+    { "src": "*.svg", "use": "@now/static" }
+  ]
+}
