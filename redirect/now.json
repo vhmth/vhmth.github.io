@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "alias": "www.vinay.sh",
+  "routes": [{ "src": "/(.*)", "status": 301, "headers": { "Location": "https://vinay.sh/$1" }}]
+}
