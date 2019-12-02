@@ -1,2 +1,3 @@
 *.swp
+/.next/
 /node_modules/
