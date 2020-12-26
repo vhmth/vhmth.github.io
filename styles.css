@@ -34,27 +34,3 @@ li {
 a:visited {
   color: #787f8c;
 }
-
-.social-bar a {
-  text-decoration: none;
-}
-
-.social-bar a:not(:first-child) {
-  margin-left: 5px;
-}
-
-.social-bar svg.twitter {
-  position: relative;
-  top: 1px;
-  width: 33px;
-}
-.social-bar svg.fb {
-  width: 30px;
-}
-
-.social-bar svg path {
-  fill: #787f8c;
-}
-.social-bar svg:hover path {
-  fill: #000000;
-}
