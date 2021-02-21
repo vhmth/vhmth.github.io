@@ -204,7 +204,7 @@
     }
   },
   "dependencies": {
-    "next": "^9.1.4"
+    "next": "^9.3.2"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.3",
