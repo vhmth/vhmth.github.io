@@ -1,7 +1,7 @@
 .PHONY: deploy
 deploy:
-	@now
+	@vercel
 
 .PHONY: alias
 alias:
-	@now alias https://interhouse.vhmth.now.sh vinay.sh
+	@vercel --prod
